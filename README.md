@@ -8,6 +8,10 @@ User-Friendly Interface:
 
 The application features an intuitive and user-friendly interface with a clean design that makes it accessible to individuals of all ages and backgrounds.
 
+Technology Used:
+
+HTML, CSS, JavaScript ❤️
+
 ![image](https://github.com/YogitaSingh9/BMI-/assets/115174566/88699081-ec88-4c8a-af45-6ccdc777f1be)
 
 after you enter your details
